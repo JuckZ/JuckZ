@@ -60,12 +60,9 @@
 ### 🌱 Blog
 
 <!-- blog starts -->
-* [kubectl 创建 Pod 背后到底发生了什么？](https://icloudnative.io/posts/what-happens-when-k8s/)
-* [Docker 镜像制作系列](https://icloudnative.io/series/docker-%E9%95%9C%E5%83%8F%E5%88%B6%E4%BD%9C%E7%B3%BB%E5%88%97/)
-* [Linux Cgroup 入门系列](https://icloudnative.io/series/linux-cgroup-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
-* [Linux Capabilities 入门系列](https://icloudnative.io/series/linux-capabilities-%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97/)
+* [ihave.cool](https://ihave.cool/)
 <!-- blog ends -->
-More on [icloudnative.io](https://icloudnative.io/)
+More on [ihave.cool](https://ihave.cool/)
 </td></tr></table>
 
 👉 [ihave.cool](https://ihave.cool/)
@@ -94,6 +91,6 @@ Here are some snippets:
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckz&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="juckz" /></a> </p>
 
 3. as follow:
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cloudnativer)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JuckZhang)
 
 -->

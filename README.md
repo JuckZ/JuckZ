@@ -1,36 +1,13 @@
 ### Hi there 👋
 
-<div align="center">
-	<br>
-	<a href="https://icloudnative.io" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/juckz/juckz@master/assets/header.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://cdn.jsdelivr.net/gh/juckz/juckz/assets/count.svg" />
-</p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckz&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="juckz" /></a> </p>
-
-Currently working on [KubeSphere](https://kubesphere.com.cn/) <img src="https://cdn.jsdelivr.net/gh/juckz/juckz/assets/Developer-small.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/juckz/juckz/assets/gopher-small.gif" width="26px"> associated projects at [QingCloud](https://www.qingcloud.com/). Read [my blog](https://icloudnative.io/) or follow my WeChat public account：
-
-<div align="center">
-  <p>
-    
-  <img src="https://cdn.jsdelivr.net/gh/juckz/imghosting/img/20200813101211.png" width="250" alt="云原生实验室" />
-
-  </p>
-</div>
 
 or you can follow my Twitter and Github:
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/CarsonYangk8s?style=social)](https://twitter.com/CarsonYangk8s)
+[![Twitter: JuckZhang](https://img.shields.io/twitter/follow/JuckZhang?style=social)](https://twitter.com/JuckZhang)
 [![GitHub Thaiane](https://img.shields.io/github/followers/juckz?label=follow&style=social)](https://github.com/juckz)
 
-[![Metrics](https://metrics.lecoq.io/juckz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai)](https://icloudnative.io)
+[![Metrics](https://metrics.lecoq.io/juckz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai)](https://ihave.cool)
 
 ### Platform & Tools
 

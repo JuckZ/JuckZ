@@ -6,16 +6,14 @@
 
 ### Platform & Tools
 
-[![](https://img.shields.io/badge/mac%20os-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
-[![](https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=ffffff)](https://www.mozilla.org/zh-CN/firefox/new/)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cloudnativer)
+[![Windows](https://img.shields.io/badge/windows-292e33?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows)
+[![CentOS](https://img.shields.io/badge/centos-1793D1?logo=centos&logoColor=fff&style=for-the-badge)](https://www.centos.org/)
+[![firefox](https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=ffffff)](https://www.mozilla.org/zh-CN/firefox/new/)
+[![chrome](https://img.shields.io/badge/chrome-FF7139?style=for-the-badge&logo=chrome&logoColor=1a73e9)](https://www.google.com/chrome/)
 
-[![](https://img.shields.io/badge/IDE-Goland-black?style=flat-square&logo=goland&logoColor=ffffff)](https://www.jetbrains.com/)
-[![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Note-Notion-000000?style=flat-square&logo=notion&logoColor=ffffff)](https://notion.so)
+[![IDEA](https://img.shields.io/badge/IDE-Goland-black?style=flat-square&logo=goland&logoColor=ffffff)](https://www.jetbrains.com/)
+[![VSCODE](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![Obsidian](https://img.shields.io/badge/obsidian-000000?style=flat-square&logo=obsidian&logoColor=ffffff)](https://obsidian.md/)
 
 ### Code & Skills
 
@@ -42,11 +40,12 @@
 
 <table><tr><td valign="top">
 
-### 🔭 I’m currently working on
+### 🔭 Working on
 
 * [一个满足Obsidian所有常见需求的综合性的插件](https://github.com/JuckZ/obsidian-manager)
+</td><td valign="top">
 
-### 💼 My Project
+### 📂 Project
 
 <!-- project starts -->
 * [一个满足Obsidian所有常见需求的综合性的插件](https://github.com/JuckZ/obsidian-manager)
@@ -58,7 +57,7 @@
 <!-- project ends -->
 </td><td valign="top">
 
-### 🌱 My Blog
+### 🌱 Blog
 
 <!-- blog starts -->
 * [kubectl 创建 Pod 背后到底发生了什么？](https://icloudnative.io/posts/what-happens-when-k8s/)
@@ -95,5 +94,6 @@ Here are some snippets:
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckz&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="juckz" /></a> </p>
 
 3. as follow:
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cloudnativer)
 
 -->

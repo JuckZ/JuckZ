@@ -11,7 +11,7 @@
 [![firefox](https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=ffffff)](https://www.mozilla.org/zh-CN/firefox/new/)
 [![chrome](https://img.shields.io/badge/chrome-1a73e9?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://www.google.com/chrome/)
 
-[![IDEA](https://img.shields.io/badge/IDE-Goland-black?style=flat-square&logo=goland&logoColor=ffffff)](https://www.jetbrains.com/)
+[![IDEA](https://img.shields.io/badge/IDE-Java-black?style=flat-square&logo=java&logoColor=ffffff)](https://www.jetbrains.com/)
 [![VSCODE](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Obsidian](https://img.shields.io/badge/obsidian-000000?style=flat-square&logo=obsidian&logoColor=ffffff)](https://obsidian.md/)
 

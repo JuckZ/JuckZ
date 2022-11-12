@@ -9,7 +9,7 @@
 [![Windows](https://img.shields.io/badge/windows-292e33?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows)
 [![CentOS](https://img.shields.io/badge/centos-1793D1?logo=centos&logoColor=fff&style=for-the-badge)](https://www.centos.org/)
 [![firefox](https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=ffffff)](https://www.mozilla.org/zh-CN/firefox/new/)
-[![chrome](https://img.shields.io/badge/chrome-FF7139?style=for-the-badge&logo=chrome&logoColor=1a73e9)](https://www.google.com/chrome/)
+[![chrome](https://img.shields.io/badge/chrome-1a73e9?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://www.google.com/chrome/)
 
 [![IDEA](https://img.shields.io/badge/IDE-Goland-black?style=flat-square&logo=goland&logoColor=ffffff)](https://www.jetbrains.com/)
 [![VSCODE](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)

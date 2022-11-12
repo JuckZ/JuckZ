@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckz&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="juckz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckz&theme=onedark&title=MultiLanguage,Commit,Repositories" alt="juckz" /></a> </p>
 
 [![Metrics](https://metrics.lecoq.io/juckz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai)](https://ihave.cool)
 
@@ -92,5 +92,8 @@ Here are some snippets:
   [![Twitter: JuckZhang](https://img.shields.io/twitter/follow/JuckZhang?style=social)](https://twitter.com/JuckZhang)
   [![GitHub Thaiane](https://img.shields.io/github/followers/juckz?label=follow&style=social)](https://github.com/juckz)
 2. as follow:
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckz&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="juckz" /></a> </p>
+
+3. as follow:
 
 -->

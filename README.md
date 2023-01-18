@@ -6,7 +6,8 @@
 
 ### Blog
 
-[ihave.cool](https://ihave.cool)
+vuepress版个人站点：[ihave.cool](https://ihave.cool)
+hogo版个人站点：[juck.site](https://juck.site)
 
 ### Platform & Tools
 

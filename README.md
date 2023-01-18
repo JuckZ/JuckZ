@@ -4,6 +4,10 @@
 
 [![Metrics](https://metrics.lecoq.io/juckz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai)](https://ihave.cool)
 
+### Blog
+
+[ihave.cool](https://ihave.cool)
+
 ### Platform & Tools
 
 [![Windows](https://img.shields.io/badge/windows-292e33?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows)

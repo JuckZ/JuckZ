@@ -7,6 +7,9 @@
 <details open>
   <summary><h2>🌱 My Blog</h2></summary>
 
+  <a href="https://ihave.cool"><img alt="https://ihave.cool" width="128" height="128" border="0" src="./public/ihave.cool.png"></a>
+  <a href="https://juck.site"><img alt="https://juck.site" width="128" height="128" border="0" src="./public/juck.site.png"></a>
+
   <h3>Hugo version</h3>
 
   <p align="left">

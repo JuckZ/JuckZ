@@ -7,20 +7,17 @@
 <details open>
   <summary><h2>🌱 My Blog</h2></summary>
 
-  <a href="https://ihave.cool"><img alt="https://ihave.cool" width="128" height="128" border="0" src="./public/ihave.cool.png"></a>
-  <a href="https://juck.site"><img alt="https://juck.site" width="128" height="128" border="0" src="./public/juck.site.png"></a>
-
-  <h3>Hugo version</h3>
-
-  <p align="left">
+  <table><tr><td valign="top">
+    <h3>Hugo version</h3>
+    <a href="https://ihave.cool"><img alt="https://ihave.cool" width="384" height="216" border="0" src="./public/ihave.cool.png"></a>
+    <br />
     <a href="https://ihave.cool"><img alt="https://ihave.cool" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Go%20To%20Hugo%20Version%20Site-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  </p>
-
-  <h3>Vuepress version</h3>
-
-  <p align="left">
+  </td><td valign="top">
+    <h3>Vuepress version</h3>
+    <a href="https://juck.site"><img alt="https://juck.site" width="384" height="216" border="0" src="./public/juck.site.png"></a>
+    <br />
     <a href="https://juck.site"><img alt="https://juck.site" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Go%20To%20Vuepress%20Version%20Site-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  </p>
+  </td></tr></table>
 
   <h3>⏳ Blog Speedtest</h3>
 
@@ -62,6 +59,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
@@ -69,17 +67,32 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a href="https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/"><img alt="微信小程序" src="https://img.shields.io/badge/-微信小程序-269539?logo=wechat&logoColor=ffffff"/></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
+      <a href="https://spring.io/"><img alt="spring" src="https://img.shields.io/badge/-spring-269539?style=flat-square&logo=spring&logoColor=ffffff"/></a>
+      <a href="https://spring.io/projects/spring-boot"><img alt="springboot" src="https://img.shields.io/badge/-springboot-269539?style=flat-square&logo=springboot&logoColor=ffffff"/></a>
+      <a href="https://spring.io/projects/spring-cloud"><img alt="spring cloud" src="https://img.shields.io/badge/-spring%20cloud-269539?style=flat-square&logo=spring&logoColor=ffffff"/></a>
+      <a href="https://spring.io/projects/spring-cloud-alibaba"><img alt="spring cloud alibaba" src="https://img.shields.io/badge/-spring%20cloud%20alibaba-269539?style=flat-square&logo=spring&logoColor=ffffff"/></a>
+      <a href="https://spring.io/projects/spring-security"><img alt="spring security" src="https://img.shields.io/badge/-spring%20security-269539?style=flat-square&logo=spring&logoColor=ffffff"/></a>
+      <a href="https://github.com/axios/axios/"><img alt="Axios" src="https://img.shields.io/badge/-Axios-269539?style=flat-square&logo=axios&logoColor=ffffff"/></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+      <a href="https://koajs.com/"><img alt="koa" src="https://img.shields.io/badge/-koa-269539?style=flat-square&logo=koa&logoColor=ffffff"/></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+      <a href="#"><img alt="MyBatis Plus" src="https://img.shields.io/badge/-MyBatis%20Plus-CB2029?logo=MyBatis%20Plus&logoColor=white"></a>
+      <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"></a>
+      <a href="#"><img alt="Vue-router" src="https://img.shields.io/badge/Vue-router-4FC08D?logo=vuedotjs&logoColor=fff"></a>
+      <a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-4FC08D?logo=vuedotjs&logoColor=fff"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="antdesign" src="https://img.shields.io/badge/antdesign-20232a.svg?logo=antdesign&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Echarts" src="https://img.shields.io/badge/Echarts-20232a.svg?logo=Echarts&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="element plus" height="20" src="https://element-plus.org/images/element-plus-logo.svg"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
 
@@ -90,7 +103,9 @@
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="https://redis.io/"><img alt="redis" src="https://img.shields.io/badge/-redis-269539?style=flat-square&logo=redis&logoColor=ffffff"/></a>
       <a href="https://prometheus.io/"><img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=ffffff"/></a>
+      <a href="https://www.rabbitmq.com/"><img alt="rabbitmq" src="https://img.shields.io/badge/-rabbitmq-269539?style=flat-square&logo=rabbitmq&logoColor=ffffff"/></a>
       <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
@@ -99,14 +114,11 @@
 
   <!-- TODO Rook -->
   <p>
-    <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-Fcc624?style=for-the-badge&logo=linux&logoColor=ffffff"/></a>
     <a href="https://www.microsoft.com/en-us/windows"><img alt="Windows" src="https://img.shields.io/badge/windows-292e33?style=for-the-badge&logo=windows&logoColor=ffffff"/></a>
     <a href="https://www.centos.org/"><img alt="CentOS" src="https://img.shields.io/badge/centos-1793D1?logo=centos&logoColor=fff&style=for-the-badge"/></a>
     <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-1793D1?logo=ubuntu&logoColor=fff&style=for-the-badge"/></a>
     <a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white&style=for-the-badge"></a>
     <a href="https://manjaro.org"><img alt="Manjaro" src="https://img.shields.io/badge/manajro-1793D1?logo=manjaro&logoColor=fff&style=for-the-badge"/></a>
-    <a href="https://www.mozilla.org/zh-CN/firefox/new/"><img alt="firefox" src="https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=ffffff"/></a>
-    <a href="https://www.google.com/chrome/"><img alt="chrome" src="https://img.shields.io/badge/chrome-1a73e9?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/></a>
   </p>
 
   <p>
@@ -114,6 +126,7 @@
     <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff"/></a>
     <a href="https://ceph.io/"><img alt="Ceph" src="https://img.shields.io/badge/-Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=ffffff"/></a>
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff"/></a>
+    <a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-269539?style=flat-square&logo=jenkins&logoColor=ffffff"/></a>
     <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=ffffff"/></a>
     <a href="https://goharbor.io/"><img alt="Harbor" src="https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=ffffff"/></a>
     <a href="https://gohugo.io/"><img alt="Hugo" src="https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=ffffff"/></a>
@@ -126,14 +139,20 @@
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="https://www.wireshark.org/"><img alt="wireshark" src="https://img.shields.io/badge/-wireshark-2496ED?style=flat-square&logo=wireshark&logoColor=ffffff"/></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
+      <a href="#"><img alt="JMeter" src="https://img.shields.io/badge/-JMeter-CB2029?logo=JMeter&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
       <a href="https://www.jetbrains.com/"><img alt="IDEA" src="https://img.shields.io/badge/IDE-Java-black?style=flat-square&logo=java&logoColor=ffffff"/></a>
       <a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/vim-000000?style=flat-square&logo=vim&logoColor=ffffff"/></a>
+      <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"></a>
+      <a href="https://webpack.js.org/"><img alt="webpack" src="https://img.shields.io/badge/-webpack-269539?style=flat-square&logo=webpack&logoColor=ffffff"/></a>
+      <a href="https://gulpjs.com/"><img alt="gulp" src="https://img.shields.io/badge/-gulp-269539?style=flat-square&logo=gulp&logoColor=ffffff"/></a>
+      <a href="https://bitcoin.org/en/"><img alt="bitcoin" src="https://img.shields.io/badge/-bitcoin-269539?style=flat-square&logo=bitcoin&logoColor=ffffff"/></a>
   </p>
 </details>
 

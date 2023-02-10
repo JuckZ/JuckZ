@@ -31,7 +31,7 @@
   <summary><h2>🔭 I’m currently working on</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/JuckZ/obsidian-manager"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=obsidian-manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="obsidian-manager"></a>
+    <a href="https://github.com/JuckZ/awesome-brain-manager"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=awesome-brain-manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="awesome-brain-manager"></a>
   </p>
 
   <p align="left">

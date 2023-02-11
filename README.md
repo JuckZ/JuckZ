@@ -201,7 +201,7 @@
   <summary><h2>📫 How to reach me</h2></summary>
 
 
-  <img alt="微信名片" src="./public/微信名片.jpg" />
+  <img alt="微信名片" src="./public/微信名片.jpg" width="200"/>
 
 </details>
 

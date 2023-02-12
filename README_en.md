@@ -42,10 +42,10 @@
   </p>
 </details>
 
-<details>
+<!-- <details>
   <summary><h2>🌱 I’m currently learning</h2></summary>
 
-</details>
+</details> -->
 
 <details open>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>

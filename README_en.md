@@ -4,26 +4,25 @@
   </a>
 </h1>
 
-[English Doc](./README_en.md)
-
-[中文文档](#)
+[中文文档](./README.md)
+[English Doc](#)
 
 <details open>
-  <summary><h2>🌱 个人博客</h2></summary>
+  <summary><h2>🌱 My Blog</h2></summary>
 
   <table><tr><td valign="top">
-    <h3>Hugo版（主）</h3>
+    <h3>Hugo version</h3>
     <a href="https://ihave.cool"><img alt="https://ihave.cool" width="384" height="216" border="0" src="./public/ihave.cool.png"></a>
     <br />
     <a href="https://ihave.cool"><img alt="https://ihave.cool" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Go%20To%20Hugo%20Version%20Site-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </td><td valign="top">
-    <h3>Vuepress版（备）</h3>
+    <h3>Vuepress version</h3>
     <a href="https://juck.site"><img alt="https://juck.site" width="384" height="216" border="0" src="./public/juck.site.png"></a>
     <br />
     <a href="https://juck.site"><img alt="https://juck.site" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Go%20To%20Vuepress%20Version%20Site-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </td></tr></table>
 
-  <h3>⏳ 站点测速</h3>
+  <h3>⏳ Blog Speedtest</h3>
 
   <p align="left">
     <a href="https://ihave.cool"><img alt="https://ihave.cool" title="I have a little cool" src="https://metrics.lecoq.io/juckz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai"/></a>
@@ -32,7 +31,7 @@
 </details>
 
 <details open>
-  <summary><h2>🔭 我正在做</h2></summary>
+  <summary><h2>🔭 I’m currently working on</h2></summary>
 
   <p align="left">
     <a href="https://github.com/JuckZ/awesome-brain-manager"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=awesome-brain-manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="awesome-brain-manager"></a>
@@ -44,15 +43,15 @@
 </details>
 
 <details>
-  <summary><h2>🌱 我正在学</h2></summary>
+  <summary><h2>🌱 I’m currently learning</h2></summary>
 
 </details>
 
 <details open>
-  <summary><h2>🛠️ 常用工具集</h2></summary>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 编程和标记语言</h3>
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <!-- ![](https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,vue,react,js,ts,webpack,babel,nodejs,jest,electron,kubernetes,linux,docker,jenkins,bash,py,grafana,prometheus,git,github,githubactions,idea,androidstudio,angular,ansible,arduino,c,cs,cpp,d3,dart,discord,eclipse,figma,flutter,go,gradle,graphql,gtk,gulp,heroku,jquery,kafka,kotlin,md,maven,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,postman,powershell,rabbitmq,raspberrypi,redis,redux,regex,rollupjs,ruby,rust,sass,sqlite,stackoverflow,selenium,svelte,svg,swift,tailwind,tensorflow,threejs,twitter,unity,visualstudio,vite,vscode,wasm,windcss,wordpress) -->
 
@@ -74,7 +73,7 @@
       <a href="https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/"><img alt="微信小程序" src="https://img.shields.io/badge/-微信小程序-269539?logo=wechat&logoColor=ffffff"/></a>
   </p>
 
-  <h3>🧰 框架和库</h3>
+  <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
       <a href="https://spring.io/"><img alt="spring" src="https://img.shields.io/badge/-spring-269539?style=flat-square&logo=spring&logoColor=ffffff"/></a>
@@ -100,7 +99,7 @@
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ 数据库和云托管</h3>
+  <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -114,7 +113,7 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-  <h3>💻 平台、软件和工具</h3>
+  <h3>💻 Platform, Software and Tools</h3>
 
   <!-- TODO Rook -->
   <p>
@@ -161,9 +160,9 @@
 </details>
 
 <details open>
-  <summary><h2>📊 GitHub 统计数据和活动</h2></summary>
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  <h3>🔥 连续数据</h3>
+  <h3>🔥 Streak Stats</h3>
 
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -177,7 +176,7 @@
     </a>
   </p> -->
 
-  <h3>💻 GitHub 简介数据</h3>
+  <h3>💻 GitHub Profile Stats</h3>
 
   <!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckz&theme=onedark&title=MultiLanguage,Commit,Repositories" alt="juckz" /></a> </p> -->
 
@@ -202,7 +201,7 @@
 </details>
 
 <details>
-  <summary><h2>📫 如何联系我</h2></summary>
+  <summary><h2>📫 How to reach me</h2></summary>
 
 
   <img alt="微信名片" src="./public/微信名片.jpg" width="200"/>

@@ -33,28 +33,28 @@
 <details open>
   <summary><h2>📌 作品集</h2></summary>
 
-  <span>
-    <a href="https://github.com/JuckZ/awesome-brain-manager"><img width="320" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=awesome-brain-manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="awesome-brain-manager"></a>
+  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+    <a href="https://github.com/JuckZ/awesome-brain-manager"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=awesome-brain-manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="awesome-brain-manager"></a>
   </span>
 
-  <span>
-    <a href="https://github.com/JuckZ/mxd"><img width="320" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=mxd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mxd"></a>
+  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+    <a href="https://github.com/JuckZ/mxd"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=mxd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mxd"></a>
   </span>
 
-  <span>
-    <a href="https://github.com/JuckZ/linux-cockpit"><img width="320" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=linux-cockpit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="linux-cockpit"></a>
+  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+    <a href="https://github.com/JuckZ/linux-cockpit"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=linux-cockpit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="linux-cockpit"></a>
   </span>
 
-  <span>
-    <a href="https://github.com/JuckZ/vuepress-theme-cool"><img width="320" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=vuepress-theme-cool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="vuepress-theme-cool"></a>
+  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+    <a href="https://github.com/JuckZ/vuepress-theme-cool"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=vuepress-theme-cool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="vuepress-theme-cool"></a>
   </span>
 
-  <span>
-    <a href="https://github.com/JuckZ/image-syncer"><img width="320" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=image-syncer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="image-syncer"></a>
+  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+    <a href="https://github.com/JuckZ/image-syncer"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=image-syncer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="image-syncer"></a>
   </span>
 
-  <span>
-    <a href="https://github.com/JuckZ/helm-repo"><img width="320" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=helm-repo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="helm-repo"></a>
+  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+    <a href="https://github.com/JuckZ/helm-repo"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=helm-repo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="helm-repo"></a>
   </span>
 
   <br />

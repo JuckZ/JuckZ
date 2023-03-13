@@ -11,12 +11,12 @@
   <summary><h2>🌱 My Blog</h2></summary>
 
   <table><tr><td valign="top">
-    <h3>Hugo version(main)</h3>
+    <h3>Hugo(main)</h3>
     <a href="https://ihave.cool"><img alt="https://ihave.cool" width="384" height="216" border="0" src="./public/ihave.cool.png"></a>
     <br />
     <a href="https://ihave.cool"><img alt="https://ihave.cool" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Go%20To%20Hugo%20Version%20Site-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </td><td valign="top">
-    <h3>Vuepress version(standby)</h3>
+    <h3>Vuepress(standby)</h3>
     <a href="https://juck.site"><img alt="https://juck.site" width="384" height="216" border="0" src="./public/juck.site.png"></a>
     <br />
     <a href="https://juck.site"><img alt="https://juck.site" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Go%20To%20Vuepress%20Version%20Site-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>

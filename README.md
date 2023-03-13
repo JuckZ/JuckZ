@@ -11,12 +11,12 @@
   <summary><h2>🌱 个人博客</h2></summary>
 
   <table><tr><td valign="top">
-    <h3>Hugo版（主）</h3>
+    <h3>Hugo（主）</h3>
     <a href="https://ihave.cool"><img alt="https://ihave.cool" width="384" height="216" border="0" src="./public/ihave.cool.png"></a>
     <br />
     <a href="https://ihave.cool"><img alt="https://ihave.cool" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-点击进入Hugo主站-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </td><td valign="top">
-    <h3>Vuepress版（备）</h3>
+    <h3>Vuepress（备）</h3>
     <a href="https://juck.site"><img alt="https://juck.site" width="384" height="216" border="0" src="./public/juck.site.png"></a>
     <br />
     <a href="https://juck.site"><img alt="https://juck.site" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-点击进入Vuepress备站-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>

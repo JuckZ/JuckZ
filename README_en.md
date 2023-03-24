@@ -5,7 +5,7 @@
 </h1>
 
 [中文文档](./README.md)
-[English Doc](#)
+[English Doc](./)
 
 <details open>
   <summary><h2>🌱 My Blog</h2></summary>

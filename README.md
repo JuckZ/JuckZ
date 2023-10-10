@@ -33,27 +33,51 @@
 <details open>
   <summary><h2>📌 作品集</h2></summary>
 
-  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
     <a href="https://github.com/JuckZ/awesome-brain-manager"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=awesome-brain-manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="awesome-brain-manager"></a>
   </span>
 
-  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
+    <a href="https://github.com/JuckZ/one-tampermonkey"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=one-tampermonkey&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="one-tampermonkey"></a>
+  </span>
+
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
+    <a href="https://github.com/JuckZ/one-eslint"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=one-eslint&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="one-eslint"></a>
+  </span>
+
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
+    <a href="https://github.com/JuckZ/one-vscode"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=one-vscode&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="one-vscode"></a>
+  </span>
+
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
+    <a href="https://github.com/JuckZ/one-idea"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=one-idea&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="one-idea"></a>
+  </span>
+
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
+    <a href="https://github.com/JuckZ/one-webext"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=one-webext&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="one-webext"></a>
+  </span>
+
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
     <a href="https://github.com/JuckZ/mxd"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=mxd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mxd"></a>
   </span>
 
-  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
+    <a href="https://github.com/manjaro-hyprland/manjaro-hyprland"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=manjaro-hyprland&repo=manjaro-hyprland&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="manjaro-hyprland"></a>
+  </span>
+
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
     <a href="https://github.com/JuckZ/linux-cockpit"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=linux-cockpit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="linux-cockpit"></a>
   </span>
 
-  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
     <a href="https://github.com/JuckZ/vuepress-theme-cool"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=vuepress-theme-cool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="vuepress-theme-cool"></a>
   </span>
 
-  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
     <a href="https://github.com/JuckZ/image-syncer"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=image-syncer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="image-syncer"></a>
   </span>
 
-  <span style="display: inline-block;background: rgb(31, 34, 46);height: 120px">
+  <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
     <a href="https://github.com/JuckZ/helm-repo"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=helm-repo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="helm-repo"></a>
   </span>
 
@@ -68,11 +92,22 @@
 </details>
 
 <!-- <details>
+  <summary><h2>💻 我正在做</h2></summary>
+</details> -->
+
+<!-- <details>
   <summary><h2>🌱 我正在学</h2></summary>
+  
+  - [ ] Rust
+  - [ ] Webassembly
 
 </details> -->
 
-<details open>
+<!-- <details>
+  <summary><h2>🔭 我想...</h2></summary>
+</details> -->
+
+<details>
   <summary><h2>🛠️ 常用工具集</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -203,7 +238,7 @@
 
   <h3>💻 GitHub 简介数据</h3>
 
-  <!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckz&theme=onedark&title=MultiLanguage,Commit,Repositories" alt="juckz" /></a> </p> -->
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckz&theme=onedark&title=MultiLanguage,Commit,Repositories" alt="juckz" /></a> </p>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -213,7 +248,7 @@
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JuckZ&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=JuckZ&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <!-- <h3>⚡ Recent GitHub Activity</h3> -->
 

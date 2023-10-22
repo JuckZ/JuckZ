@@ -5,9 +5,7 @@
 </h1>
 
 <p align='center'>
-
-**English** | [简体中文](README.zh-CN.md)
-
+<b>English</b> | <a href="https://github.com/JuckZ/JuckZ/blob/main/README.zh-CN.md">简体中文</a>
 </p>
 
 ## 🌱 My Blog

@@ -4,34 +4,34 @@
   </a>
 </h1>
 
-[中文文档](./README.md)
-[English Doc](#)
+<p align='center'>
+
+[English](README.md) | **简体中文**
+
+</p>
+
+## 🌱 个人博客
+
+<table><tr><td valign="top">
+  <h3>Hugo（主）</h3>
+  <a href="https://ihave.cool"><img alt="https://ihave.cool" width="384" height="216" border="0" src="./public/ihave.cool.png"></a>
+  <br />
+  <a href="https://ihave.cool"><img alt="https://ihave.cool" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-点击进入Hugo主站-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</td><td valign="top">
+  <h3>Vuepress（备）</h3>
+  <a href="https://juck.site"><img alt="https://juck.site" width="384" height="216" border="0" src="./public/juck.site.png"></a>
+  <br />
+  <a href="https://juck.site"><img alt="https://juck.site" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-点击进入Vuepress备站-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</td></tr></table>
+
+### ⏳ 站点测速
+
+<p align="left">
+  <a href="https://ihave.cool"><img alt="https://ihave.cool" title="I have a little cool" src="https://metrics.lecoq.io/juckz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai"/></a>
+</p>
 
 <details open>
-  <summary><h2>🌱 My Blog</h2></summary>
-
-  <table><tr><td valign="top">
-    <h3>Hugo(main)</h3>
-    <a href="https://ihave.cool"><img alt="https://ihave.cool" width="384" height="216" border="0" src="./public/ihave.cool.png"></a>
-    <br />
-    <a href="https://ihave.cool"><img alt="https://ihave.cool" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Go%20To%20Hugo%20Version%20Site-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  </td><td valign="top">
-    <h3>Vuepress(standby)</h3>
-    <a href="https://juck.site"><img alt="https://juck.site" width="384" height="216" border="0" src="./public/juck.site.png"></a>
-    <br />
-    <a href="https://juck.site"><img alt="https://juck.site" title="I have a little cool" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Go%20To%20Vuepress%20Version%20Site-0366D6?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  </td></tr></table>
-
-  <h3>⏳ Blog Speedtest</h3>
-
-  <p align="left">
-    <a href="https://ihave.cool"><img alt="https://ihave.cool" title="I have a little cool" src="https://metrics.lecoq.io/juckz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai"/></a>
-  </p>
-
-</details>
-
-<details open>
-  <summary><h2>📌 Portfolio</h2></summary>
+  <summary><h2>📌 作品集</h2></summary>
 
   <span style="display: inline-block;background: rgb(31, 34, 46);margin: 5px">
     <a href="https://github.com/JuckZ/awesome-brain-manager"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=JuckZ&repo=awesome-brain-manager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="awesome-brain-manager"></a>
@@ -82,37 +82,36 @@
   </span>
 
   <br />
-
   <span>
-    <a href="https://github.com/JuckZ?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/JuckZ?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-我的所有仓库-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </span>
 
   <span>
-    <a href="https://kb.ihave.cool"><img alt="My k3s cluster" title="My k3s cluster" src="https://custom-icon-badges.demolab.com/badge/-My%20K3s%20-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://kb.ihave.cool"><img alt="My k3s cluster" title="My k3s cluster" src="https://custom-icon-badges.demolab.com/badge/-我的集群-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </span>
 </details>
 
 <!-- <details>
-  <summary><h2>💻 I'm working on</h2></summary>
+  <summary><h2>💻 我正在做</h2></summary>
 </details> -->
 
 <!-- <details>
-  <summary><h2>🌱 I’m currently learning</h2></summary>
-
+  <summary><h2>🌱 我正在学</h2></summary>
+  
   - [ ] Rust
   - [ ] Webassembly
-  
+
 </details> -->
 
 <!-- <details>
-  <summary><h2>🔭 I want to</h2></summary>
+  <summary><h2>🔭 我想...</h2></summary>
 </details> -->
 
-<details open>
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+<details>
+  <summary><h2>🛠️ 常用工具集</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3>👨‍💻 编程和标记语言</h3>
 
   <!-- ![](https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,vue,react,js,ts,webpack,babel,nodejs,jest,electron,kubernetes,linux,docker,jenkins,bash,py,grafana,prometheus,git,github,githubactions,idea,androidstudio,angular,ansible,arduino,c,cs,cpp,d3,dart,discord,eclipse,figma,flutter,go,gradle,graphql,gtk,gulp,heroku,jquery,kafka,kotlin,md,maven,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,postman,powershell,rabbitmq,raspberrypi,redis,redux,regex,rollupjs,ruby,rust,sass,sqlite,stackoverflow,selenium,svelte,svg,swift,tailwind,tensorflow,threejs,twitter,unity,visualstudio,vite,vscode,wasm,windcss,wordpress) -->
 
@@ -134,7 +133,7 @@
       <a href="https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/"><img alt="微信小程序" src="https://img.shields.io/badge/-微信小程序-269539?logo=wechat&logoColor=ffffff"/></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>🧰 框架和库</h3>
 
   <p>
       <a href="https://spring.io/"><img alt="spring" src="https://img.shields.io/badge/-spring-269539?style=flat-square&logo=spring&logoColor=ffffff"/></a>
@@ -160,7 +159,7 @@
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>🗄️ 数据库和云托管</h3>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -174,7 +173,7 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-  <h3>💻 Platform, Software and Tools</h3>
+  <h3>💻 平台、软件和工具</h3>
 
   <!-- TODO Rook -->
   <p>
@@ -221,9 +220,9 @@
 </details>
 
 <details open>
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <summary><h2>📊 GitHub 统计数据和活动</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3>🔥 连续数据</h3>
 
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -237,7 +236,7 @@
     </a>
   </p> -->
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3>💻 GitHub 简介数据</h3>
 
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juckz&theme=onedark&title=MultiLanguage,Commit,Repositories" alt="juckz" /></a> </p>
 
@@ -254,15 +253,17 @@
   <!-- <h3>⚡ Recent GitHub Activity</h3> -->
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!-- START_SECTION:activity -->
+  <!--START_SECTION:activity-->
 
   <!-- 1. 🎉💪 Merged PR [#445](https://github.com/DenverCoder1/github-readme-streak-stats/pull/445) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 <!--END_SECTION:activity-->
 
 </details>
 
+## 📫 如何联系我
+
 <details>
-  <summary><h2>📫 How to reach me</h2></summary>
+  <summary>微信</summary>
 
   <img alt="微信名片" src="./public/微信名片.jpg" width="200"/>
 
